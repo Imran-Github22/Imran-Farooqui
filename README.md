@@ -1,2 +1,2 @@
 # Imran-Farooqui
-Data Science, Apps, Java, C/C++
+Data Science, Python, SQL, Apps, Excel, Java, C/C++
